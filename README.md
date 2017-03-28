@@ -4,10 +4,10 @@
 
 ## Introduction
 
-| Index |       Model        |       Description        |        Tec         |
-| :---: | :----------------: | :----------------------: | :----------------: |
-|   1   |       mnist        |    softmax classifier    |                    |
-|   2   | mnist with dropout | 3 layers NN with dropout | dropout/name_scope |
+| Index |       Model        |       Description        |                   Tec                    |
+| :---: | :----------------: | :----------------------: | :--------------------------------------: |
+|   1   |       mnist        |    softmax classifier    |                                          |
+|   2   | mnist with dropout | 3 layers NN with dropout | Dropout/ name_scope/ Graph Visualization |
 
 ## Author
 
