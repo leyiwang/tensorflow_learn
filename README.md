@@ -6,8 +6,9 @@
 
 | Index |       Model        |       Description        |                   Tec                    |
 | :---: | :----------------: | :----------------------: | :--------------------------------------: |
-|   1   |       mnist        |    softmax classifier    |                                          |
+|   1   |       mnist        |    softmax classifier    |                    -                     |
 |   2   | mnist with dropout | 3 layers NN with dropout | Dropout/ name_scope/ Graph Visualization |
+|   3   |        CNN         |      CNN for mnist       |                   CNN                    |
 
 ## Author
 
@@ -21,4 +22,6 @@ https://github.com/leyiwang
 
 ## Change History
 
-Data: Last update 2017-03-28
+Data: Last update 2017-03-30
+
+Data: update 2017-03-28
